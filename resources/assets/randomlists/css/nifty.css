@@ -594,7 +594,8 @@ h6,
   top: 0;
 }
 .navbar-header {
-  display: none;
+  /*display: none;*/
+  margin-left: 5px !important;
 }
 .navbar-content {
   background-color: #25476a;
